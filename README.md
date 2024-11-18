@@ -1,2 +1,2 @@
 # TutorialsNinjaProjectDemo
-This is an automation Demo Project 
+This is an automation Demo Project created with Cucumber Framework
